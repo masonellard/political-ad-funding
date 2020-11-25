@@ -1,6 +1,7 @@
 # Digital Political Ads, and American Presidential Politics
 
 We analyze the effect of Facebook political ad spending on the state polling performance of 2020 Democratic presidential primary candidates.
+
 **Candidates:**
 * Joe Biden
 * Michael Bloomberg
