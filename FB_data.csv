@@ -1,0 +1,202 @@
+State,Candidate,Avg_Poll,Spending,Biden,Sanders,Bloomberg,Warren,Buttigieg,Klobuchar,Freshman,Freshman_cat,Gender,Age
+Alabama,Biden,41.825,29597.68,1,0,0,0,0,0,0,Non-Freshman,1,77
+Alabama,Sanders,19.36,28716.74,0,1,0,0,0,0,0,Non-Freshman,1,78
+Alabama,Bloomberg,18.2,29576.87,0,0,1,0,0,0,1,Freshman,1,78
+Alabama,Warren,9.7,46355.11,0,0,0,1,0,0,1,Freshman,0,70
+Alabama,Buttigieg,3.04,40412.11,0,0,0,0,1,0,1,Freshman,1,38
+Alabama,Klobuchar,0.7,10186.18,0,0,0,0,0,1,1,Freshman,0,59
+Arizona,Sanders,25.16923077,103082.19,0,1,0,0,0,0,0,Non-Freshman,1,78
+Arizona,Warren,17.3875,93310.39,0,0,0,1,0,0,1,Freshman,0,70
+Arizona,Bloomberg,8.5,50665.73,0,0,1,0,0,0,1,Freshman,1,78
+Arizona,Klobuchar,1.157142857,40983.85,0,0,0,0,0,1,1,Freshman,0,59
+Arizona,Buttigieg,7.5,103141.17,0,0,0,0,1,0,1,Freshman,1,38
+Arkansas,Biden,27.43333333,19987.36,1,0,0,0,0,0,0,Non-Freshman,1,77
+Arkansas,Sanders,18.73333333,27438.94,0,1,0,0,0,0,0,Non-Freshman,1,78
+Arkansas,Warren,11.4,35477.96,0,0,0,1,0,0,1,Freshman,0,70
+Arkansas,Buttigieg,8.5,34440.13,0,0,0,0,1,0,1,Freshman,1,38
+Arkansas,Klobuchar,4.266666667,9908.76,0,0,0,0,0,1,1,Freshman,0,59
+California,Sanders,27.77681159,785159.06,0,1,0,0,0,0,0,Non-Freshman,1,78
+California,Biden,21.31639344,340244.61,1,0,0,0,0,0,0,Non-Freshman,1,77
+California,Warren,18.42096774,495473.3,0,0,0,1,0,0,1,Freshman,0,70
+California,Buttigieg,8.58852459,580523.43,0,0,0,0,1,0,1,Freshman,1,38
+California,Klobuchar,2.906779661,166473.95,0,0,0,0,0,1,1,Freshman,0,59
+Colorado,Sanders,28.07142857,151279.95,0,1,0,0,0,0,0,Non-Freshman,1,78
+Colorado,Biden,16.47142857,56590.8,1,0,0,0,0,0,0,Non-Freshman,1,77
+Colorado,Bloomberg,13.82,54047.55,0,0,1,0,0,0,1,Freshman,1,78
+Colorado,Warren,17.35714286,107529.37,0,0,0,1,0,0,1,Freshman,0,70
+Colorado,Klobuchar,4.2,53099.68,0,0,0,0,0,1,1,Freshman,0,59
+Connecticut,Biden,37.55,51748.72,1,0,0,0,0,0,0,Non-Freshman,1,77
+Connecticut,Sanders,21.9,60440.41,0,1,0,0,0,0,0,Non-Freshman,1,78
+Connecticut,Warren,17.8,62472.25,0,0,0,1,0,0,1,Freshman,0,70
+Connecticut,Buttigieg,11.2,73709.75,0,0,0,0,1,0,1,Freshman,1,38
+Delaware,Sanders,13,10638.24,0,1,0,0,0,0,0,Non-Freshman,1,78
+Delaware,Warren,11,13556.4,0,0,0,1,0,0,1,Freshman,0,70
+Delaware,Buttigieg,8,18293.46,0,0,0,0,1,0,1,Freshman,1,38
+Delaware,Klobuchar,1,6480.36,0,0,0,0,0,1,1,Freshman,0,59
+Delaware,Bloomberg,1,7442.67,0,0,1,0,0,0,1,Freshman,1,78
+Florida,Biden,43.995,231722.91,1,0,0,0,0,0,0,Non-Freshman,1,77
+Florida,Sanders,17.8025,230927.05,0,1,0,0,0,0,0,Non-Freshman,1,78
+Florida,Klobuchar,2.591666667,72560.49,0,0,0,0,0,1,1,Freshman,0,59
+Florida,Bloomberg,14.12,174421.74,0,0,1,0,0,0,1,Freshman,1,78
+Florida,Buttigieg,5.638461538,304366.35,0,0,0,0,1,0,1,Freshman,1,38
+Georgia,Biden,38.675,79171.62,1,0,0,0,0,0,0,Non-Freshman,1,77
+Georgia,Sanders,15.225,85636.1,0,1,0,0,0,0,0,Non-Freshman,1,78
+Georgia,Bloomberg,10,65875.53,0,0,1,0,0,0,1,Freshman,1,78
+Georgia,Buttigieg,5.685714286,112787.77,0,0,0,0,1,0,1,Freshman,1,38
+Georgia,Warren,14.01428571,108829.62,0,0,0,1,0,0,1,Freshman,0,70
+Georgia,Klobuchar,1.62,25670.98,0,0,0,0,0,1,1,Freshman,0,59
+Idaho,Sanders,42.1,26343.75,0,1,0,0,0,0,0,Non-Freshman,1,78
+Illinois,Biden,44.38,119872.66,1,0,0,0,0,0,0,Non-Freshman,1,77
+Illinois,Sanders,26.33,210768.38,0,1,0,0,0,0,0,Non-Freshman,1,78
+Illinois,Bloomberg,11.7,114307.97,0,0,1,0,0,0,1,Freshman,1,78
+Illinois,Buttigieg,12.4,247583.3,0,0,0,0,1,0,1,Freshman,1,38
+Illinois,Warren,10.7,192654.69,0,0,0,1,0,0,1,Freshman,0,70
+Indiana,Biden,33,56306.12,1,0,0,0,0,0,0,Non-Freshman,1,77
+Indiana,Sanders,23,88777.15,0,1,0,0,0,0,0,Non-Freshman,1,78
+Indiana,Buttigieg,20,199481.83,0,0,0,0,1,0,1,Freshman,1,38
+Indiana,Warren,2,101769.76,0,0,0,1,0,0,1,Freshman,0,70
+Indiana,Klobuchar,0,40611.76,0,0,0,0,0,1,1,Freshman,0,59
+Iowa,Biden,21.99691176,75147.24,1,0,0,0,0,0,0,Non-Freshman,1,77
+Iowa,Sanders,18.94676471,171400.73,0,1,0,0,0,0,0,Non-Freshman,1,78
+Iowa,Warren,16.34179104,266416.29,0,0,0,1,0,0,1,Freshman,0,70
+Iowa,Klobuchar,5.97,70545.29,0,0,0,0,0,1,1,Freshman,0,59
+Iowa,Bloomberg,1.494736842,25889.86,0,0,1,0,0,0,1,Freshman,1,78
+Kansas,Sanders,35,37381.42,0,1,0,0,0,0,0,Non-Freshman,1,78
+Kansas,Biden,59,24338.32,1,0,0,0,0,0,0,Non-Freshman,1,77
+Maine,Sanders,24.42857143,38777.14,0,1,0,0,0,0,0,Non-Freshman,1,78
+Maine,Biden,21.9,20722.81,1,0,0,0,0,0,0,Non-Freshman,1,77
+Maine,Warren,18.01428571,35015.23,0,0,0,1,0,0,1,Freshman,0,70
+Maine,Bloomberg,17.6,16161.33,0,0,1,0,0,0,1,Freshman,1,78
+Maine,Buttigieg,8.783333333,46303.35,0,0,0,0,1,0,1,Freshman,1,38
+Maryland,Sanders,19.1,71087.86,0,1,0,0,0,0,0,Non-Freshman,1,78
+Maryland,Biden,23.33333333,78669.39,1,0,0,0,0,0,0,Non-Freshman,1,77
+Maryland,Bloomberg,15.25,69101.87,0,0,1,0,0,0,1,Freshman,1,78
+Maryland,Warren,11.63333333,73103.94,0,0,0,1,0,0,1,Freshman,0,70
+Maryland,Buttigieg,5.6,98144.5,0,0,0,0,1,0,1,Freshman,1,38
+Maryland,Klobuchar,3.633333333,34912.36,0,0,0,0,0,1,1,Freshman,0,59
+Massachusetts,Sanders,18.42285714,162243.33,0,1,0,0,0,0,0,Non-Freshman,1,78
+Massachusetts,Bloomberg,12.5,91639.25,0,0,1,0,0,0,1,Freshman,1,78
+Massachusetts,Biden,18.64428571,100257.35,1,0,0,0,0,0,0,Non-Freshman,1,77
+Massachusetts,Warren,21.19785714,201766.04,0,0,0,1,0,0,1,Freshman,0,70
+Massachusetts,Klobuchar,4.620769231,64739.67,0,0,0,0,0,1,1,Freshman,0,59
+Michigan,Biden,41.56666667,102508.1,1,0,0,0,0,0,0,Non-Freshman,1,77
+Michigan,Sanders,26.13333333,175203.78,0,1,0,0,0,0,0,Non-Freshman,1,78
+Michigan,Bloomberg,5.985714286,199263.43,0,0,1,0,0,0,1,Freshman,1,78
+Michigan,Warren,11.41333333,174269.39,0,0,0,1,0,0,1,Freshman,0,70
+Michigan,Buttigieg,4.938461538,204544.28,0,0,0,0,1,0,1,Freshman,1,38
+Minnesota,Sanders,22.5,103377.67,0,1,0,0,0,0,0,Non-Freshman,1,78
+Minnesota,Klobuchar,18.28333333,368745.46,0,0,0,0,0,1,1,Freshman,0,59
+Minnesota,Biden,16.25,55891.86,1,0,0,0,0,0,0,Non-Freshman,1,77
+Minnesota,Bloomberg,10.475,49762.43,0,0,1,0,0,0,1,Freshman,1,78
+Minnesota,Warren,17.03333333,110347.02,0,0,0,1,0,0,1,Freshman,0,70
+Minnesota,Buttigieg,5.85,122540.93,0,0,0,0,1,0,1,Freshman,1,38
+Mississippi,Sanders,19.4275,11388.6,0,1,0,0,0,0,0,Non-Freshman,1,78
+Mississippi,Warren,7.02,22071.7,0,0,0,1,0,0,1,Freshman,0,70
+Mississippi,Buttigieg,2.71,15735.17,0,0,0,0,1,0,1,Freshman,1,38
+Mississippi,Klobuchar,0.89,3977.01,0,0,0,0,0,1,1,Freshman,0,59
+Missouri,Biden,47.30222222,53805.84,1,0,0,0,0,0,0,Non-Freshman,1,77
+Missouri,Sanders,23.09111111,83347.63,0,1,0,0,0,0,0,Non-Freshman,1,78
+Missouri,Bloomberg,10.46333333,47931.22,0,0,1,0,0,0,1,Freshman,1,78
+Missouri,Buttigieg,8.055,106812.34,0,0,0,0,1,0,1,Freshman,1,38
+Missouri,Klobuchar,5.916666667,44844.69,0,0,0,0,0,1,1,Freshman,0,59
+Montana,Warren,40,19301.66,0,0,0,1,0,0,1,Freshman,0,70
+Montana,Biden,15,9975.62,1,0,0,0,0,0,0,Non-Freshman,1,77
+Montana,Klobuchar,2,11084.32,0,0,0,0,0,1,1,Freshman,0,59
+Montana,Sanders,2,22217.38,0,1,0,0,0,0,0,Non-Freshman,1,78
+Nevada,Sanders,22.70909091,87705.58,0,1,0,0,0,0,0,Non-Freshman,1,78
+Nevada,Buttigieg,8.818181818,43803.7,0,0,0,0,1,0,1,Freshman,1,38
+Nevada,Biden,23.15454545,28504.57,1,0,0,0,0,0,0,Non-Freshman,1,77
+Nevada,Warren,15.20454545,206133.48,0,0,0,1,0,0,1,Freshman,0,70
+Nevada,Bloomberg,2,26251.21,0,0,1,0,0,0,1,Freshman,1,78
+New Hampshire,Buttigieg,14.65433333,265303.52,0,0,0,0,1,0,1,Freshman,1,38
+New Hampshire,Sanders,22.34361702,81549.77,0,1,0,0,0,0,0,Non-Freshman,1,78
+New Hampshire,Klobuchar,5.554186047,15097.72,0,0,0,0,0,1,1,Freshman,0,59
+New Hampshire,Biden,19.55510417,27808.88,1,0,0,0,0,0,0,Non-Freshman,1,77
+New Hampshire,Warren,14.81765957,183979.97,0,0,0,1,0,0,1,Freshman,0,70
+New Jersey,Biden,22.46,106695.38,1,0,0,0,0,0,0,Non-Freshman,1,77
+New Jersey,Bloomberg,18.16666667,89257.12,0,0,1,0,0,0,1,Freshman,1,78
+New Jersey,Buttigieg,8.84,115318.06,0,0,0,0,1,0,1,Freshman,1,38
+New Jersey,Klobuchar,2.16,36804.29,0,0,0,0,0,1,1,Freshman,0,59
+New Jersey,Sanders,22.54,101226.9,0,1,0,0,0,0,0,Non-Freshman,1,78
+New Mexico,Biden,26.7,20025.29,1,0,0,0,0,0,0,Non-Freshman,1,77
+New Mexico,Sanders,28.2,41378.47,0,1,0,0,0,0,0,Non-Freshman,1,78
+New Mexico,Warren,8.4,34416.08,0,0,0,1,0,0,1,Freshman,0,70
+New Mexico,Buttigieg,6.5,34708.32,0,0,0,0,1,0,1,Freshman,1,38
+New Mexico,Klobuchar,2.1,14543.53,0,0,0,0,0,1,1,Freshman,0,59
+New York,Sanders,17.2,421069.46,0,1,0,0,0,0,0,Non-Freshman,1,78
+New York,Bloomberg,19,413494.14,0,0,1,0,0,0,1,Freshman,1,78
+New York,Biden,22,229275.25,1,0,0,0,0,0,0,Non-Freshman,1,77
+New York,Warren,15.4,314488.43,0,0,0,1,0,0,1,Freshman,0,70
+New York,Buttigieg,5.6,362447.99,0,0,0,0,1,0,1,Freshman,1,38
+New York,Klobuchar,2.8,112569.01,0,0,0,0,0,1,1,Freshman,0,59
+North Carolina,Sanders,20.94928571,116794.56,0,1,0,0,0,0,0,Non-Freshman,1,78
+North Carolina,Bloomberg,16.2205,80131.02,0,0,1,0,0,0,1,Freshman,1,78
+North Carolina,Warren,12.39392857,135522.85,0,0,0,1,0,0,1,Freshman,0,70
+North Carolina,Klobuchar,3.619259259,48742.17,0,0,0,0,0,1,1,Freshman,0,59
+North Carolina,Buttigieg,6.2975,156912.13,0,0,0,0,1,0,1,Freshman,1,38
+North Dakota,Biden,65.1,4758.84,1,0,0,0,0,0,0,Non-Freshman,1,77
+North Dakota,Sanders,30.5,8823.68,0,1,0,0,0,0,0,Non-Freshman,1,78
+Ohio,Sanders,25.48,149105.86,0,1,0,0,0,0,0,Non-Freshman,1,78
+Ohio,Bloomberg,10.1,90728.06,0,0,1,0,0,0,1,Freshman,1,78
+Ohio,Buttigieg,5.62,194343.79,0,0,0,0,1,0,1,Freshman,1,38
+Ohio,Klobuchar,0.64,69081.48,0,0,0,0,0,1,1,Freshman,0,59
+Oklahoma,Biden,23.81666667,24695.07,1,0,0,0,0,0,0,Non-Freshman,1,77
+Oklahoma,Sanders,17.18333333,40133.61,0,1,0,0,0,0,0,Non-Freshman,1,78
+Oklahoma,Warren,10.9,47955.25,0,0,0,1,0,0,1,Freshman,0,70
+Oklahoma,Bloomberg,17.64,26016.32,0,0,1,0,0,0,1,Freshman,1,78
+Oklahoma,Buttigieg,6.216666667,48008.72,0,0,0,0,1,0,1,Freshman,1,38
+Oklahoma,Klobuchar,3.516666667,12221.8,0,0,0,0,0,1,1,Freshman,0,59
+Oregon,Sanders,27,161041.11,0,1,0,0,0,0,0,Non-Freshman,1,78
+Oregon,Biden,26,51117.9,1,0,0,0,0,0,0,Non-Freshman,1,77
+Oregon,Buttigieg,3,110836.92,0,0,0,0,1,0,1,Freshman,1,38
+Pennsylvania,Biden,31.86923077,182431.84,1,0,0,0,0,0,0,Non-Freshman,1,77
+Pennsylvania,Sanders,16.44615385,188309.44,0,1,0,0,0,0,0,Non-Freshman,1,78
+Pennsylvania,Bloomberg,11.7,107762.47,0,0,1,0,0,0,1,Freshman,1,78
+Pennsylvania,Buttigieg,6.525,222491.36,0,0,0,0,1,0,1,Freshman,1,38
+Pennsylvania,Warren,12.59166667,185979.28,0,0,0,1,0,0,1,Freshman,0,70
+South Carolina,Biden,37.07983607,45578.43,1,0,0,0,0,0,0,Non-Freshman,1,77
+South Carolina,Sanders,15.42915254,93132.39,0,1,0,0,0,0,0,Non-Freshman,1,78
+South Carolina,Buttigieg,6.592982456,96601.46,0,0,0,0,1,0,1,Freshman,1,38
+South Carolina,Warren,11.24688525,202416.28,0,0,0,1,0,0,1,Freshman,0,70
+South Carolina,Klobuchar,2.526470588,16330.76,0,0,0,0,0,1,1,Freshman,0,59
+South Carolina,Bloomberg,2.433333333,31646.5,0,0,1,0,0,0,1,Freshman,1,78
+Tennessee,Biden,31.73333333,52502.96,1,0,0,0,0,0,0,Non-Freshman,1,77
+Tennessee,Sanders,22.4,69406,0,1,0,0,0,0,0,Non-Freshman,1,78
+Tennessee,Warren,13.93333333,83104.44,0,0,0,1,0,0,1,Freshman,0,70
+Tennessee,Buttigieg,5.266666667,95246.22,0,0,0,0,1,0,1,Freshman,1,38
+Tennessee,Klobuchar,2.9,23147.31,0,0,0,0,0,1,1,Freshman,0,59
+Texas,Sanders,20.9195122,258772.03,0,1,0,0,0,0,0,Non-Freshman,1,78
+Texas,Biden,24.6875,172142.33,1,0,0,0,0,0,0,Non-Freshman,1,77
+Texas,Bloomberg,15.25238095,203766.48,0,0,1,0,0,0,1,Freshman,1,78
+Texas,Buttigieg,6.729268293,244484.24,0,0,0,0,1,0,1,Freshman,1,38
+Texas,Klobuchar,2.6875,69315.73,0,0,0,0,0,1,1,Freshman,0,59
+Utah,Bloomberg,18.6375,18370.78,0,0,1,0,0,0,1,Freshman,1,78
+Utah,Sanders,26.405,48788.08,0,1,0,0,0,0,0,Non-Freshman,1,78
+Utah,Buttigieg,9.1625,35952.24,0,0,0,0,1,0,1,Freshman,1,38
+Utah,Warren,13.6975,41446.54,0,0,0,1,0,0,1,Freshman,0,70
+Utah,Klobuchar,4.0325,10959.28,0,0,0,0,0,1,1,Freshman,0,59
+Vermont,Sanders,52.13333333,42657.56,0,1,0,0,0,0,0,Non-Freshman,1,78
+Vermont,Warren,13.83333333,23603.77,0,0,0,1,0,0,1,Freshman,0,70
+Vermont,Bloomberg,10.4,8391.36,0,0,1,0,0,0,1,Freshman,1,78
+Vermont,Buttigieg,6.333333333,22522.73,0,0,0,0,1,0,1,Freshman,1,38
+Vermont,Klobuchar,1.9,9948.22,0,0,0,0,0,1,1,Freshman,0,59
+Virginia,Biden,32.89166667,97030.48,1,0,0,0,0,0,0,Non-Freshman,1,77
+Virginia,Sanders,25.88,96462.08,0,1,0,0,0,0,0,Non-Freshman,1,78
+Virginia,Warren,11.16363636,110388,0,0,0,1,0,0,1,Freshman,0,70
+Virginia,Klobuchar,6.183333333,46881.86,0,0,0,0,0,1,1,Freshman,0,59
+Virginia,Buttigieg,9.945454545,146299.09,0,0,0,0,1,0,1,Freshman,1,38
+Washington,Biden,31.63857143,92267.38,1,0,0,0,0,0,0,Non-Freshman,1,77
+Washington,Sanders,32.00142857,226264.55,0,1,0,0,0,0,0,Non-Freshman,1,78
+Washington,Warren,10.29333333,167306.48,0,0,0,1,0,0,1,Freshman,0,70
+Washington,Bloomberg,13.56,77641.64,0,0,1,0,0,0,1,Freshman,1,78
+Washington,Klobuchar,5.01,78990.21,0,0,0,0,0,1,1,Freshman,0,59
+Wisconsin,Sanders,23.21,111326.5,0,1,0,0,0,0,0,Non-Freshman,1,78
+Wisconsin,Biden,25.225,51802.89,1,0,0,0,0,0,0,Non-Freshman,1,77
+Wisconsin,Bloomberg,9.1,47239.72,0,0,1,0,0,0,1,Freshman,1,78
+Wisconsin,Buttigieg,9.061111111,113302.05,0,0,0,0,1,0,1,Freshman,1,38
+Wisconsin,Klobuchar,3.361111111,78180.16,0,0,0,0,0,1,1,Freshman,0,59
+Wisconsin,Warren,17.75,102728.35,0,0,0,1,0,0,1,Freshman,0,70
+Wyoming,Klobuchar,1,3971.61,0,0,0,0,0,1,1,Freshman,0,59
+Wyoming,Biden,0,3844.46,1,0,0,0,0,0,0,Non-Freshman,1,77
+Wyoming,Buttigieg,0,8157.14,0,0,0,0,1,0,1,Freshman,1,38
+Wyoming,Sanders,0,7786.24,0,1,0,0,0,0,0,Non-Freshman,1,78
